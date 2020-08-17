@@ -2,10 +2,11 @@
 
 ## Install
 
-Download and install Python3 - https://www.python.org/downloads/
-Install pipenv - `pip3 install --user pipenv`
-Install all dependencies - `pipenv install`
-Get `client_secrets.json` from Google Developer Console - https://developers.google.com/identity/protocols/oauth2/
+- Download and install Python3 - https://www.python.org/downloads/
+- Install pipenv - `pip3 install --user pipenv`
+- Install all dependencies - `pipenv install`
+- Get `client_secrets.json` from Google Developer Console - https://developers.google.com/identity/protocols/oauth2/
+- Run the script - see below
 
 ## How to use
 
