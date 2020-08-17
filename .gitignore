@@ -1,5 +1,6 @@
 # SECRETS - retrieve them from https://console.developers.google.com/apis/
 client_secrets.json
+*-oauth2.json
 
 # video files
 *.mpg

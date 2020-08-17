@@ -8,6 +8,9 @@ pylint = "*"
 
 [packages]
 google-api-python-client = "*"
+google-auth-oauthlib = "*"
+google-auth-httplib2 = "*"
+oauth2client = "*"
 
 [requires]
 python_version = "3.8"
