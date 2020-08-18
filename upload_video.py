@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 import http.client
 import httplib2
 import os
