@@ -13,5 +13,6 @@
 Run the script with a combination of arguments that suits your case best, e.g.:
 
 ```
+    pipenv shell
     python upload_all_in_folder.py --folder ./videos
 ```
