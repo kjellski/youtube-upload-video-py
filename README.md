@@ -13,10 +13,5 @@
 Run the script with a combination of arguments that suits your case best, e.g.:
 
 ```
-    python upload_video.py --file="example.mpg" \
-                       --title="To be done" \
-                       --description="another-lesson" \
-                       --keywords="schools-for-fools" \
-                       --category="schools-for-fools" \
-                       --privacyStatus="unlisted"
+    python upload_all_in_folder.py --folder ./videos
 ```
