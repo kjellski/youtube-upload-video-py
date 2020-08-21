@@ -7,7 +7,7 @@ import shutil
 from string import Template
 from pathlib import Path
 from upload_video import get_authenticated_service, upload_video, VALID_PRIVACY_STATUSES
-from apiclient.errors import HttpError
+from googleapiclient.errors import HttpError
 from oauth2client.tools import argparser
 
 VIDEO_FILETYPES = ( ".mov", ".mpg", ".mpeg4", ".mp4", ".avi", ".wmv", ".mpegps", ".flv" )
